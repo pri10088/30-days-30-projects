@@ -4,7 +4,7 @@ A collection of 30 mini projects built using **HTML, CSS, and JavaScript** as pa
 
 ---
 
-## 📅 Projects List
+##  Projects List
 
 
 | ✅ Day 01 | QR Code Generator        
@@ -12,15 +12,15 @@ A collection of 30 mini projects built using **HTML, CSS, and JavaScript** as pa
 | ✅ Day 03 | To-Do List App          
 | ⏳ Day 04 | _Coming Soon_        
 
----
 
-## 🧠 Goal
+
+##  Goal
 
 To sharpen frontend development skills by building small, useful apps using plain HTML, CSS, and JavaScript — one project per day.
 
----
 
-## 📌 How to Run
+
+##  How to Run
 
 1. Clone this repository:
    ```bash
